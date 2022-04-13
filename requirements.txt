@@ -1,0 +1,3 @@
+fitz==0.0.1.dev2
+html2text==2020.1.16
+Requests==2.27.1
