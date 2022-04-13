@@ -10,3 +10,6 @@ _Tested on Python 3.10.2_
   "pass": "@#$%@#$%@#$%"
 }
 ```
+
+### Preview (filtered)
+![Preview](preview.png)
