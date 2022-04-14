@@ -1,4 +1,10 @@
+# DEPRECATED!
+Use [Pypyc](https://github.com/Kai9073/pypyc) instead.
+
+***
+
 # circ-reader
+
 Reading circulars in shell! Convenient... right...? Lol  
 _Tested on Python 3.10.2_
 
